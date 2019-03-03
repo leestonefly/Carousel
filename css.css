@@ -1,0 +1,17 @@
+.red {
+  color: red;
+}
+.window {
+  width: 300px;
+  overflow: hidden;
+}
+img {
+  width: 300px;
+  height: 300px;
+  vertical-align: top;
+}
+.images {
+  display: flex;
+  align-items: flex-start;
+  transition: all 0.5s;
+}
